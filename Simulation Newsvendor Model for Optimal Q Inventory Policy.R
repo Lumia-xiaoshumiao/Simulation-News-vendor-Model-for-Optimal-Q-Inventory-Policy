@@ -1,9 +1,9 @@
 #install.packages("ks")
 #install.packages("rgl")
 #install.packages("xtable")
-library(rgl)
-library(xtable)
-library(ks)
+library("rgl")
+library("xtable")
+library("ks")
 
 rm(list=ls())
 
